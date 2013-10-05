@@ -9,7 +9,7 @@ import sys
 from random import randint
 
 wall_allowed = ['.jpg', '.jpeg', '.png', '.bmp']
-wall_dir = '/home/cipher/ownCloud/Wallpaper'
+wall_dir = '/home/<user>/Bilder/Wallpaper'
 sleeptime = 30 #minutes
 
 def getrandomfile(directory):
